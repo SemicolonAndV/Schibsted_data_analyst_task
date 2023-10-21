@@ -1,3 +1,7 @@
+# Campaign analysis
+
+The analysis can be found in the `campaign_analysis` directory. All the steps are explained inside Jupyter Notebook.
+
 # Currency converter
 
 This script allows to read the data from CSV file and convert campaign budget (by default given in EUR currency) to local currency of a given campaign. Column with this information is added to the data and displayed in the generated output file.
