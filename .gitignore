@@ -1,4 +1,4 @@
 config.py
 __pycache__
-.pyinb_checkpoints
 *.parquet
+.ipynb_checkpoints
